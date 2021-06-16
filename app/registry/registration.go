@@ -9,5 +9,6 @@ type ServiceName string
 
 const (
 	LogService     = ServiceName("LogService")
+	EncrptService =ServiceName("EncrptService")
 )
  
